@@ -1,0 +1,13 @@
+{"name": "keyboard", "event": "press", "vk": 70}
+{"name": "keyboard", "event": "release", "vk": 70}
+{"name": "keyboard", "event": "press", "vk": 8}
+{"name": "keyboard", "event": "release", "vk": 8}
+{"name": "keyboard", "event": "press", "vk": 160}
+{"name": "keyboard", "event": "release", "vk": 160}
+{"name": "keyboard", "event": "press", "vk": 70}
+{"name": "keyboard", "event": "release", "vk": 70}
+{"name": "keyboard", "event": "press", "vk": 70}
+{"name": "keyboard", "event": "release", "vk": 70}
+{"name": "keyboard", "event": "press", "vk": 70}
+{"name": "keyboard", "event": "release", "vk": 70}
+{"name": "keyboard", "event": "press", "vk": 27}
